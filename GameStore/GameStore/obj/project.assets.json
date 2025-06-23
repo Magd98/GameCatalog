@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebApps\\GameCatalog\\Game Catalog\\Game Catalog\\Game Catalog.csproj",
-      "projectName": "Game Catalog",
-      "projectPath": "D:\\WebApps\\GameCatalog\\Game Catalog\\Game Catalog\\Game Catalog.csproj",
+      "projectUniqueName": "D:\\WebApps\\GameCatalog\\GameStore\\GameStore\\GameStore.csproj",
+      "projectName": "GameStore",
+      "projectPath": "D:\\WebApps\\GameCatalog\\GameStore\\GameStore\\GameStore.csproj",
       "packagesPath": "C:\\Users\\magdm\\.nuget\\packages\\",
-      "outputPath": "D:\\WebApps\\GameCatalog\\Game Catalog\\Game Catalog\\obj\\",
+      "outputPath": "D:\\WebApps\\GameCatalog\\GameStore\\GameStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
