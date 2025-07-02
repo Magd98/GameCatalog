@@ -4,7 +4,7 @@ namespace GameStore.Entities;
 
 public class Genre
 {
-    public int id { get; set; }
+    public int Id { get; set; }
 
-    public required string name { get; set; }
+    public required string Name { get; set; }
 }
